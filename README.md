@@ -5,4 +5,6 @@ The application takes recent news, applies AI to them to find the shortest, punc
 
 Users have the choice between scrolling through national news or local news.
 
-The more informed people are about the news, the better-educated they are to make decisions, the more they are able to change about their own life, and the safer they are. My app, Leads, will bring news to the 21st century.
+The more informed people are about the news, the better-educated they are to make decisions, the more they are able to change about their own life, and the safer they are. 
+
+Leads, the first ever app for short-form news, will bring the press to the 21st century.
